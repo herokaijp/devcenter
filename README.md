@@ -2,4 +2,4 @@
 
 Heroku DevCenterの和訳プロジェクトです。
 
-[当repositoryのwiki](./wiki)をご確認下さい。
+[当repositoryのwiki](/herokaijp/devcenter/wiki)をご確認下さい。
